@@ -1,7 +1,0 @@
-﻿  main.c
-C:\Users\user\source\repos\SOR\AnalysisSortAlgorithms\main.c(37,31): warning C4133: функция: несовместимые типы - из "char [16]" в "LPCWSTR"
-  Создание кода
-  Previous IPDB not found, fall back to full compilation.
-  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Создание кода завершено
-  AnalysisSortAlgorithms.vcxproj -> C:\Users\user\source\repos\SOR\x64\Release\AnalysisSortAlgorithms.exe

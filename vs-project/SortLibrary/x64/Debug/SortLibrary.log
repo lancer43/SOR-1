@@ -1,7 +1,0 @@
-﻿  sorts.c
-C:\Users\user\source\repos\SOR\SortLibrary\sorts.c(65,36): warning C4273: GetSortList: несовместимое связывание dll
-      C:\Users\user\source\repos\SOR\SortLibrary\sorts.h(40,23):
-      см. предыдущее определение "GetSortList"
-  
-     Создается библиотека C:\Users\user\source\repos\SOR\x64\Debug\SortLibrary.lib и объект C:\Users\user\source\repos\SOR\x64\Debug\SortLibrary.exp
-  SortLibrary.vcxproj -> C:\Users\user\source\repos\SOR\x64\Debug\SortLibrary.dll
